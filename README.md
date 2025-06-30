@@ -1,16 +1,12 @@
 # Solder - F1 car light up design
 A PCB design with simple functions based on an F1 car!
 # Schematic
-![Screenshot 2025-06-29 170849](https://github.com/user-attachments/assets/4b91c95f-8912-4a7a-a4c0-54c1c1e194a4)
+![image](https://github.com/user-attachments/assets/d58edb91-ab1e-4268-9717-d9e4a5b182b2)
 # PCB
-![Screenshot 2025-06-29 170839](https://github.com/user-attachments/assets/5e0e7a05-b1ac-450d-9e98-bddb5e5e0041)
+![image](https://github.com/user-attachments/assets/ac9e27cb-3de4-4675-b83e-bf70c5e9d0fe)
 # 3D view
-![Screenshot 2025-06-29 172146](https://github.com/user-attachments/assets/87f717b6-f34f-4948-8227-d8a2ea2ef888)
+![image](https://github.com/user-attachments/assets/f1cffc93-fadf-475a-98a5-80abcc6cb750)
 # BOM
-* 1x Battery holder
-* 2x 220Ω resistor
-* 2x 5mm LED
-* 1x 6mm push botton
-* 1x CR2032 battery cell
+![image](https://github.com/user-attachments/assets/a262e3be-5708-427f-8990-c0f6b8524efa)
 # About
 Made my me, `@Hugo` on the Hack Club Slack
