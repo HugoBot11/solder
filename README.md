@@ -6,7 +6,7 @@ A PCB design with simple functions based on an F1 car!
 ![image](https://github.com/user-attachments/assets/45d70d81-32d2-488d-8cd1-e78cb4b4c229)
 # 3D view
 ![image](https://github.com/user-attachments/assets/f1cffc93-fadf-475a-98a5-80abcc6cb750)
-![image](https://github.com/user-attachments/assets/1a01c0ed-a98e-4159-b626-5c67dc07e110)
+![image](https://github.com/user-attachments/assets/826db53f-b832-4101-8e33-c47530006bc0)
 # BOM
 ![image](https://github.com/user-attachments/assets/a262e3be-5708-427f-8990-c0f6b8524efa)
 # About
